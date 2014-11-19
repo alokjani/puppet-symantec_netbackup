@@ -82,7 +82,7 @@ The complete path to the Zip Archive containing the NetBackup Client.
 ####`archive_extract_to`
 The directory path into which to extract the NetBackup Client Zip Archive
 
-####`executable_7za
+####`executable_7za`
 Full path to 7zip CLI binary (7za.exe)
  
 ####`master_server`
