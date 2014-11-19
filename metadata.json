@@ -1,0 +1,14 @@
+{
+  "name": "puppet-symantec_netbackup",
+  "version": "0.1.0",
+  "author": "Alok Jani",
+  "summary": "Puppet module to manage Symantec Netbackup on Windows",
+  "license": "Apache 2.0",
+  "source": "https://github.com/JioCloud/puppet-symantec_netbackup.git",
+  "project_page": "https://github.com/JioCloud/puppet-symantec_netbackup",
+  "issues_url": "https://github.com/JioCloud/puppet-symantec_netbackup/issues",
+  "dependencies": [
+
+  ]
+}
+
